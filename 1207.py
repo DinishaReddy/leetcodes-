@@ -1,5 +1,4 @@
-<h1>1207<h1>
-
+[1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)
 
 class Solution(object):
     def uniqueOccurrences(self, arr):
